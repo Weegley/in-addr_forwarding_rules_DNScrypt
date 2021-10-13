@@ -3,3 +3,6 @@ Generate forwarding rules for reverse lookups for dnscrypt-proxy 2 from ASN pref
 ## Prequisites:
 1. [jq 1.6+](https://stedolan.github.io/jq/)
 2. [curl](https://curl.se/)
+
+## Thanks to:
+(https://stackoverflow.com/questions/16986879/bash-script-to-list-all-ips-in-prefix/44001530)
